@@ -6,13 +6,14 @@
         <entry key="..\:/Users/Junior/AndroidStudioProjects/CleanTMDB/app/src/main/res/drawable/btn_rounded.xml" value="0.1" />
         <entry key="..\:/Users/Junior/AndroidStudioProjects/CleanTMDB/app/src/main/res/drawable/ic_update_24.xml" value="0.1" />
         <entry key="..\:/Users/Junior/AndroidStudioProjects/CleanTMDB/app/src/main/res/layout/activity_artist.xml" value="0.1" />
-        <entry key="..\:/Users/Junior/AndroidStudioProjects/CleanTMDB/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Junior/AndroidStudioProjects/CleanTMDB/app/src/main/res/layout/activity_home.xml" value="0.22" />
         <entry key="..\:/Users/Junior/AndroidStudioProjects/CleanTMDB/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Junior/AndroidStudioProjects/CleanTMDB/app/src/main/res/layout/activity_movie.xml" value="0.18" />
         <entry key="..\:/Users/Junior/AndroidStudioProjects/CleanTMDB/app/src/main/res/layout/activity_people.xml" value="0.1" />
         <entry key="..\:/Users/Junior/AndroidStudioProjects/CleanTMDB/app/src/main/res/layout/activity_tv_show.xml" value="0.1" />
-        <entry key="..\:/Users/Junior/AndroidStudioProjects/CleanTMDB/app/src/main/res/layout/list_item.xml" value="0.1503623188405797" />
+        <entry key="..\:/Users/Junior/AndroidStudioProjects/CleanTMDB/app/src/main/res/layout/list_item.xml" value="0.22" />
         <entry key="..\:/Users/Junior/AndroidStudioProjects/CleanTMDB/app/src/main/res/menu/update.xml" value="0.2" />
+        <entry key="..\:/Users/Junior/AndroidStudioProjects/CleanTMDB/app/src/main/res/xml/myactionbar.xml" value="0.1" />
       </map>
     </option>
   </component>

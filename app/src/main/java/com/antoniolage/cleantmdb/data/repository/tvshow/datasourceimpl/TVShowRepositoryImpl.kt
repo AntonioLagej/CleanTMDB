@@ -71,7 +71,7 @@ class TVShowRepositoryImpl(
         }catch (e:Exception){
             Log.i("Mytag",e.message.toString())
         }
-        if(tvshowList.size>0){
+        if(tvshowList.isNotEmpty()){
             return tvshowList
         }else
         {

@@ -15,7 +15,7 @@
             android:layout_gravity="center"
             android:clickable="true"
             android:focusable="true"
-            app:cardBackgroundColor="@color/colorAccent"
+            app:cardBackgroundColor="@color/blue_400"
             app:cardCornerRadius="10dp"
             app:cardElevation="10dp">
 
@@ -31,7 +31,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="TextView"
-                    android:textColor="@android:color/background_light"
+                    android:textColor="@android:color/black"
                     android:textSize="30sp"
                     android:textStyle="bold" />
 
@@ -48,7 +48,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="TextView"
-                    android:textColor="@android:color/background_light"
+                    android:textColor="@android:color/black"
                     android:textSize="24sp"
                     android:textStyle="bold" />
             </LinearLayout>

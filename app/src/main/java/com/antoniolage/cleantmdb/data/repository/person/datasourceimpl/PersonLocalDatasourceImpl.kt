@@ -19,6 +19,7 @@ class PersonLocalDatasourceImpl(private val personDAO: PersonDAO) : PersonLocalD
 
 
    CoroutineScope(Dispatchers.IO).launch {
+
        personDAO.savePeople(people)
    }
     }
